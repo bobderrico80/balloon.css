@@ -92,7 +92,7 @@ body {
   margin-bottom: 30px;
 }
 
-button[aria-label] {
+button[aria-description] {
   display: inline-block;
   width: 180px;
   padding: 10px;
@@ -253,7 +253,7 @@ p + p {
     margin: 0 !important;
     margin-bottom: 20px !important;
   }
-  
+
   footer {
     padding: 10px;
   }
